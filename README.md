@@ -1,6 +1,9 @@
 # UCI-data-analysis
 
-The UCI HAR Dataset (henceforth: dataset), available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The UCI HAR Dataset (henceforth: dataset), available at 
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 contains data obtained by analyzing 10,000 experiments recording the motion of some 30 subjects performing one of 6 common tasks. These observations have been split randomly into a "test" and a "train" data set. 
 In each experiment, approximately 750 features of the motion are measured. These quantities are given in the "features.txt" file inside the dataset. 
 
